@@ -10,35 +10,31 @@ If you’re working in one of these areas and want to talk, you can reach out to
 
 <br/>
 
-Fasting:
-Fasting may be the world's oldest known medical treatment method. The ancient greeks called fasting the 'physician within'. On the other side of the planet, Lao-Tse wrote: "Practise non-action. Work without activity." <a href="http://fastingmovie.com/" title="Fasting">Fasting</a> has been shown to be effective in the treatment of various cardiovascular diseases such as hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance.
+### Fasting:
+Fasting may be the world's oldest known medical treatment method. The ancient greeks called fasting the 'physician within'. <a href="http://fastingmovie.com/" title="Fasting">Fasting</a> has been shown to be effective in the treatment of various cardiovascular diseases such as hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance.
+**Projects:** an AI assistant that makes sure you can easily keep up your fasting regimen
 
+<br/>
 
+### Home Care:
+<a href="https://www.buurtzorg.com/" title="Buurtzorg">Buurtzorg</a> is a healthcare organisation in the Netherlands. The organisation pioneered independent, self-managed teams that find more time for care. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 Icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from www.flaticon.com
