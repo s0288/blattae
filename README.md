@@ -18,23 +18,3 @@ Fasting may be the world's oldest known medical treatment method. The ancient gr
 
 ### Home Care:
 <a href="https://www.buurtzorg.com/" title="Buurtzorg">Buurtzorg</a> is a healthcare organisation in the Netherlands. The organisation pioneered independent, self-managed teams that find more time for care. 
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-Icon made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from www.flaticon.com
