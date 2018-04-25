@@ -6,7 +6,7 @@
 <br/>
  
 This is an incomplete list of projects we are working on and learning about (updated every few months).
-If you’re working in one of these areas and want to talk, you can reach out to Alex at alex.gansmann@gmail.com.
+If you’re working in one of these areas and want to talk, you can reach out to Alex at emailto:alex.gansmann@gmail.com.
 
 <br/>
 
