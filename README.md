@@ -11,7 +11,7 @@ If you’re working in one of these areas and want to talk, you can reach out to
 <br/>
 
 ### Fasting:
-Fasting may be the world's oldest known medical treatment method. The ancient greeks called fasting the 'physician within'. Fasting has been shown to be <a href="http://fastingmovie.com/" title="Fasting">effective in the treatment of various cardiovascular diseases</a> such as hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance. We work on an AI assistant that supports you in keeping up your fasting regimen.
+Fasting may be the world's oldest known medical treatment method. The ancient greeks called fasting the 'physician within'. Fasting has been shown to be effective in the <a href="http://fastingmovie.com/" title="Fasting">treatment of various cardiovascular diseases</a> such as hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance. We work on an AI assistant that supports you in keeping up your fasting regimen.
 
 <br/>
 
