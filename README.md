@@ -6,15 +6,14 @@
 <br/>
  
 This is an incomplete list of projects we are working on and learning about (updated every few months).
-If you’re working in one of these areas and want to talk, you can reach out to Alex at emailto:alex.gansmann@gmail.com.
+If you’re working in one of these areas and want to talk, you can reach out to Alex at <a href="mailto:alex.gansmann@gmail.com" target="_top">alex.gansmann@gmail.com</a>.
 
 <br/>
 
 ### Fasting:
-Fasting may be the world's oldest known medical treatment method. The ancient greeks called fasting the 'physician within'. <a href="http://fastingmovie.com/" title="Fasting">Fasting</a> has been shown to be effective in the treatment of various cardiovascular diseases such as hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance.
-**Projects:** an AI assistant that makes sure you can easily keep up your fasting regimen
+Fasting may be the world's oldest known medical treatment method. The ancient greeks called fasting the 'physician within'. <a href="http://fastingmovie.com/" title="Fasting">Fasting</a> has been shown to be effective in the treatment of various cardiovascular diseases such as hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance. We work on an AI assistant that supports you in keeping up your fasting regimen.
 
 <br/>
 
-### Home Care:
-<a href="https://www.buurtzorg.com/" title="Buurtzorg">Buurtzorg</a> is a healthcare organisation in the Netherlands. The organisation pioneered independent, self-managed teams that find more time for care. 
+### Care for the elderly:
+In Japanese culture, *ikigai* is a concept that means 'a reason for being'. <a href="http://www.shenjiva.com/709.full.pdf" title="ikigai"> Researchers in Japan showed that the risk of all-cause mortality was significantly higher among subjects who did not find a sense of ikigai. We look for light-weight, technological solutions that help (elderly) people to find their ikigai.
