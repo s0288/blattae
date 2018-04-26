@@ -16,4 +16,4 @@ Fasting may be the world's oldest known medical treatment method. The ancient gr
 <br/>
 
 ### Care for the elderly:
-In Japanese culture, *ikigai* is a concept that means 'a reason for being'. <a href="http://www.shenjiva.com/709.full.pdf" title="ikigai"> Researchers in Japan</a> showed that the risk of all-cause mortality was significantly higher among subjects who did not find a sense of ikigai. We look for light-weight, technological solutions that help (elderly) people to find their ikigai.
+In Japanese culture, *ikigai* is a concept that means 'a reason for being'. <a href="http://www.shenjiva.com/709.full.pdf" title="ikigai"> Researchers in Japan</a> showed that the risk of all-cause mortality was significantly higher among subjects who did not find a sense of ikigai. We look for light-weight, technological solutions that help (elderly) people find their ikigai.
