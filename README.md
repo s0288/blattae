@@ -19,3 +19,8 @@ Fasting is one of the world's oldest medical treatment methods. Fasting has been
 
 ### Care for the elderly:
 In Japanese culture, *ikigai* is a concept that means 'a reason for being'. <a href="http://www.shenjiva.com/709.full.pdf" title="ikigai"> Researchers in Japan</a> showed that the risk of all-cause mortality was significantly higher among subjects who did not find a sense of ikigai. We look for light-weight, technological solutions that help (elderly) people find their ikigai.
+
+<br/>
+
+### An AI companion:
+With digital, evidence-based interventions on the rise, a patient's life can be greatly enhanced by making accessibility and adherence to these interventions easier. An AI companion that identifies the right intervention and helps the patient stick to it, can significantly increase the patient's expected healthy life years.
