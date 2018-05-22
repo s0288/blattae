@@ -13,7 +13,7 @@ If you’re working in one of these areas and want to talk, you can reach out to
 <br/>
 
 ### Fasting:
-Fasting is one of the world's oldest medical treatment methods. Fasting has been shown to be effective in the <a href="http://fastingmovie.com/" title="Fasting">treatment of various cardiovascular diseases</a> such as hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance. We work on an AI assistant that supports you in keeping up your fasting regimen.
+Fasting is one of the world's oldest medical treatment methods. Fasting has been shown to be effective in the <a href="http://fastingmovie.com/" title="Fasting">treatment of various cardiovascular diseases</a> such as hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance. We work on a technological solution that helps you develop a fasting regimen.
 
 <br/>
 
