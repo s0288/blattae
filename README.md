@@ -22,5 +22,5 @@ In Japanese culture, *ikigai* is a concept that means 'a reason for being'. <a h
 
 <br/>
 
-### An AI companion:
+### Your AI companion:
 With digital, evidence-based interventions on the rise, a patient's life can be greatly enhanced by making accessibility and adherence to these interventions easier. An AI companion that identifies the right intervention and helps the patient stick to it, can significantly increase the patient's expected healthy life years.
