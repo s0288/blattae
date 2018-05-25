@@ -22,5 +22,5 @@ In Japanese culture, *ikigai* is a concept that means 'a reason for being'. <a h
 
 <br/>
 
-### Your AI companion:
+### Patient support:
 With digital, evidence-based interventions on the rise, a patient's life can be greatly enhanced by making accessibility and adherence to these interventions easier. Many people are currently looking into the field of natural language generation. However, most are focused on building linear decision-tree solutions, without a real intention of providing truly personalised advise. We believe that a different way forward is required. We don't need more chatbots that people have no interest in communicating with. Rather, a solution is needed that patients truly enjoy engaging with and that helps them become a healthier version of themselves.
