@@ -17,10 +17,11 @@ Fasting is one of the world's oldest medical treatment methods. Fasting has been
 
 <br/>
 
-### Care for the elderly:
-In Japanese culture, *ikigai* is a concept that means 'a reason for being'. <a href="http://www.shenjiva.com/709.full.pdf" title="ikigai"> Researchers in Japan</a> showed that the risk of all-cause mortality was significantly higher among subjects who did not find a sense of ikigai. We look for light-weight, technological solutions that help (elderly) people find their ikigai.
+### Intelligent patient support:
+When it comes to our personal health, we have no roadmap and very little understanding. While modern science may know a lot about genetics or what we're born with, experts don't have the means to help us identify and modify unhealthy and life-shortening habits. Most often, experts don't even know how our personal choices each day can limit, or open, our future.
+We want a solution that shows us where we are headed in terms of our health, with clear explanations on our risks and opportunities. We want a guide that helps us navigate about which paths lead to a long and healthy life, or a shortened and painful one.
 
 <br/>
 
-### Patient support:
-With digital, evidence-based interventions on the rise, a patient's life can be greatly enhanced by making accessibility and adherence to these interventions easier. Many people are currently looking into the field of natural language generation. However, most are focused on building linear decision-tree solutions, without a real intention of providing truly personalised advise. We believe that a different way forward is required. We don't need more chatbots that people have no interest in communicating with. Rather, a solution is needed that patients truly enjoy engaging with and that helps them become a healthier version of themselves.
+### Care for the elderly:
+In Japanese culture, *ikigai* is a concept that means 'a reason for being'. <a href="http://www.shenjiva.com/709.full.pdf" title="ikigai"> Researchers in Japan</a> showed that the risk of all-cause mortality was significantly higher among subjects who did not find a sense of ikigai. We look for light-weight, technological solutions that help (elderly) people find their ikigai.
