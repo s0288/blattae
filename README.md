@@ -2,7 +2,7 @@
 
 # blattae <img src="http://s0288.pythonanywhere.com/static/insect_.png" alt="blattae" class="inline"/>
 
-## We are a small team of behavioural psychology and data science professionals developing tools to help people realise their potential. 
+## We are a small team of behavioural psychology and data science professionals digitalising therapies to help people realise their potential. 
 ### Today, an average female German citizen enjoys 67.5 healthy life years <a href="http://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Healthy_life_years,_2015_(years)_YB17.png" title="Eurostat">(Eurostat)</a>. We build small tools to help raise that number to 100.
 
 <br/>
@@ -13,7 +13,7 @@ If you’re working in one of these areas and want to talk, you can reach out to
 <br/>
 
 ### Fasting:
-Fasting is one of the world's oldest medical treatment methods. Fasting has been shown to be effective in the <a href="http://fastingmovie.com/" title="Fasting">treatment of various cardiovascular diseases</a> such as arthritis, hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance. We work on a technological solution that helps you develop a fasting regimen. We are especially interested in the current research around <a href="http://stm.sciencemag.org/content/9/377/eaai8700.short" title="FMDs">Fasting-Mimicking Diets (FMDs)</a>.
+Fasting is one of the world's oldest medical treatment methods. Fasting has been shown to be effective in the <a href="http://fastingmovie.com/" title="Fasting">treatment of various cardiovascular diseases</a> such as arthritis, hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance. We are especially interested in the current research around <a href="http://stm.sciencemag.org/content/9/377/eaai8700.short" title="FMDs">Fasting-Mimicking Diets (FMDs)</a> and how virtual assistants can support patients in adhering to a FMD.
 
 <br/>
 
