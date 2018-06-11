@@ -13,7 +13,7 @@ If you’re working in one of these areas and want to talk, you can reach out to
 <br/>
 
 ### Fasting:
-Fasting is one of the world's oldest medical treatment methods. Fasting has been shown to be effective in the <a href="http://fastingmovie.com/" title="Fasting">treatment of various cardiovascular diseases</a> such as arthritis, hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance. We are especially interested in the current research around <a href="http://stm.sciencemag.org/content/9/377/eaai8700.short" title="FMDs">Fasting-Mimicking Diets (FMDs)</a> and how virtual assistants can support patients in adhering to a FMD.
+Fasting is one of the world's oldest medical treatment methods. Fasting has been shown to be effective in the <a href="http://fastingmovie.com/" title="Fasting">treatment of various cardiovascular diseases</a> such as arthritis, hypertension, fatty liver, type 2 diabetes and, more generally, insulin resistance. We are especially interested in the current research around <a href="http://stm.sciencemag.org/content/9/377/eaai8700.short" title="FMDs">Fasting-Mimicking Diets (FMDs)</a> and <a href="https://www.sciencedirect.com/science/article/pii/S1550413115004623" title="trf">time-restricted feeding</a> and how virtual assistants can support patients in adhering to their intervention.
 
 <br/>
 
