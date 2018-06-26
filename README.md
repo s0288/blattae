@@ -2,7 +2,7 @@
 
 # blattae <img src="http://s0288.pythonanywhere.com/static/insect_.png" alt="blattae" class="inline"/>
 
-## We are a small team of behavioural psychology and data science professionals digitising lifestyle interventions to help people realise their potential. 
+## We are a small team of behavioural psychology and data science professionals digitising lifestyle interventions in order to help people realise their potential. 
 ### Today, an average female German citizen enjoys 67.5 healthy life years <a href="http://ec.europa.eu/eurostat/statistics-explained/index.php?title=File:Healthy_life_years,_2015_(years)_YB17.png" title="Eurostat">(Eurostat)</a>. We build small tools to help raise that number to 100.
 
 <br/>
