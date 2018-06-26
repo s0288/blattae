@@ -15,6 +15,7 @@ If you’re working in one of these areas and want to talk, you can reach out to
 ### Ketogenic diets:
 The “keto” in ketogenic diet comes from the fact that it makes the body produce small fuel molecules called “ketones”. This is an alternative fuel for the body, used when blood sugar (glucose) is in short supply. On a ketogenic diet, your entire body switches its fuel supply to run almost entirely on fat. Insulin levels become very low, and fat burning increases dramatically.
 As <a href="https://www.sciencedirect.com/science/article/pii/S2211124716305769" title="Keto and MS">recent science suggests</a>, a ketogenic diet may be an effective intervention in the treatment of diseases such as diabetes type 2, multiple sclerosis, rheumatoid arthritis and psoriasis.
+We're developing a medically supported online course that helps at-risk patients switch their current diet to a ketogenic diet. The patients can monitor their health parameters in an accompanying app.
 
 <br/>
 
